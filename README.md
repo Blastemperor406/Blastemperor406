@@ -13,4 +13,4 @@
 - 🔭 I’m currently working on Recommending healthier meal choices to people using data science that leverages AI <a href="https://github.com/Blastemperor406/FoodStats">check it out! </a>
 - 🌱 I’m currently learning Diagnostic, Precriptive data science.
 - 🤝 I’m looking to collaborate on anything Data science, or tech that helps decision making!
-- 📫 How to reach me: darshbloxx95@gmail.com
+- 📫 How to reach me: darshbloxx95@hotmail.com
