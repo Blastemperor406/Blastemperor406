@@ -14,3 +14,6 @@
 - 🌱 I’m currently learning Diagnostic, Precriptive data science.
 - 🤝 I’m looking to collaborate on anything Data science, or tech that helps decision making!
 - 📫 How to reach me: darshbloxx95@hotmail.com
+
+
+  https://github-profile-trophy.vercel.app/?username=Ashenoy64&theme=radical&no-frame=false&no-bg=false&margin-w=4
