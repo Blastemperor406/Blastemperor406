@@ -16,4 +16,4 @@
 - 📫 How to reach me: darshbloxx95@hotmail.com
 
 
- ![] https://github-profile-trophy.vercel.app/?username=Ashenoy64&theme=radical&no-frame=false&no-bg=false&margin-w=4
+ ![](https://github-profile-trophy.vercel.app/?username=Ashenoy64&theme=radical&no-frame=false&no-bg=false&margin-w=4)
