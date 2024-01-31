@@ -15,5 +15,12 @@
 - 🤝 I’m looking to collaborate on anything Data science, or tech that helps decision making!
 - 📫 How to reach me: darshbloxx95@hotmail.com
 
+   ## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Blastemperor406&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blastemperor406&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
- ![](https://github-profile-trophy.vercel.app/?username=Ashenoy64&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+ ![](https://github-profile-trophy.vercel.app/?username=Blastemperor406&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
